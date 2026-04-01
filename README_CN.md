@@ -5,7 +5,7 @@
 > 从 npm 包 `@anthropic-ai/claude-code` **2.1.88** 版本中提取。
 > 发布的包只有一个打包后的 `cli.js`（~12MB）。本仓库的 `src/` 目录包含从 npm 包中解包的 **TypeScript 源码**。
 
-**语言**: [English](README.md) | **中文**
+**语言**: [English](README.md) | **中文** | [한국어](README_KR.md) | [日本語](README_JA.md)
 
 ---
 
